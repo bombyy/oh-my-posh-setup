@@ -143,8 +143,8 @@
                     "background": "#E95378",
                     "properties": {
                       "display_host": true,
-                      "postfix": "",
-                      "prefix": "\uf108 "
+                      "prefix":" ",
+                      "postfix": " "
                     }
                 }
             ]
